@@ -1,0 +1,2 @@
+# mimi2
+ myjavascriptproject
